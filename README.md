@@ -6,7 +6,7 @@ Cela serait avec plaisir d'avoir vos différents retours, n'hésitez pas à me j
 https://www.linkedin.com/in/guillaume-decroix-76724ab1/
 
 
-#Novembre 2020 - Datathon
+# Novembre 2020 - Datathon
 
 https://public.tableau.com/profile/decroix#!/vizhome/Datathon_Novembre_Portfolio/TableaudeBord?publish=yes
 

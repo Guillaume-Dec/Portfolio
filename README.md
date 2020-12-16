@@ -8,7 +8,7 @@ https://www.linkedin.com/in/guillaume-decroix-76724ab1/
 
 # Novembre 2020 - [Datathon](https://public.tableau.com/profile/decroix#!/vizhome/Datathon_Novembre_Portfolio/TabIdentifier?publish=yes)
 
-Après un mois et demi de formation, nous avons participé à un Datathon. Pendant 24 heures, notre défi était de produire une analyse basée sur des données, qui aidera les acteurs du marché immobilier.
+> Après un mois et demi de formation, nous avons participé à un Datathon. Pendant 24 heures, notre défi était de produire une analyse basée sur des données, qui aidera les acteurs du marché immobilier.
 
 Pour introduire notre projet nous sommes partis du nombre d'agences immombilières actives et recensées par INSEE: 117 258 
 Cet indicateur montre la forte intensité concurrentielle dans ce marché, entre ces différents acteurs. 

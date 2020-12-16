@@ -14,9 +14,10 @@ https://www.linkedin.com/in/guillaume-decroix-76724ab1/
 > Après un mois et demi de formation, nous avons participé à un Datathon. Pendant 24 heures, notre défi était de produire une analyse basée sur des données, qui aidera les acteurs du marché immobilier.
 
 Pour introduire notre projet nous sommes partis du nombre d'agences immombilières actives et recensées par INSEE: **117 258**.
+
 Cet indicateur montre la forte intensité concurrentielle dans ce marché, entre ces différents acteurs. 
 
-Etant donné cette concurrence, nous avons imaginé un outil drivé par la data, pour un acteur national (par exemple un réseau d'agences physiques) ou pureplayer pour les aider à se différencier. Concrètement, cet outil est un dashboard d'aide à la décision pour répondre à des questions comme:
+Etant donné cette concurrence, nous avons imaginé un outil drivé par la data, destiné à un acteur national (par exemple un réseau d'agences physiques) ou pureplayer pour les aider à se différencier. Concrètement, cet outil est un dashboard d'aide à la décision pour répondre à des questions comme:
 - où installer une nouvelle agence ? 
 - quelles sont les villes où il faut intensifier les recherches de bien ? 
 - comment allouer notre budget marketing par ville et par rapport au potentiel de business ?

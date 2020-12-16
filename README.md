@@ -8,6 +8,25 @@ https://www.linkedin.com/in/guillaume-decroix-76724ab1/
 
 # Novembre 2020 - [Datathon](https://public.tableau.com/profile/decroix#!/vizhome/Datathon_Novembre_Portfolio/TabIdentifier?publish=yes)
 
+Après un mois et demi de formation, nous avons participé à un Datathon. Pendant 24 heures, notre défi était de produire une analyse basée sur des données, qui aidera les acteurs du marché immobilier.
 
+Pour introduire notre projet nous sommes partis du nombre d'agences immombilières actives et recensées par INSEE: 117 258 
+Cet indicateur montre la forte intensité concurrentielle dans ce marché, entre ces différents acteurs. 
+
+Dans le but de se différencier, nous avons imaginé un outil drivé par la data, pour un acteur national (par exemple un réseau d'agences physiques) ou pureplayer. Concrètement, cet outil est un dashboard d'aide à la décision pour répondre à des questions comme:
+- où installer une nouvelle agence ? 
+- quelles sont les villes où il faut intensifier les recherches de bien ? 
+- comment allouer notre budget marketing par ville et par rapport au potentiel de business ?
+
+Pour répondre à ce besoin, nous avons décidé d'une part d'extraire des données les plus locales possibles, ainsi par commune, malgré le coût de traitement des données lourd et le temps imparti. D'autre part, afin de comparer au mieux les villes entre elles, nous avons développé un score, entre 1 et 100, que nous avons associés à chaque commune. 
+Pour cela, nous avons identifié 4 catégories de données utiles à notre étude, et que nous avons recherchés en open-source sur l'INSEE et Data.gouv.fr:
+- Le marché 
+Ex: Ventes/hab, prix, surface...
+- L’offre immobilière
+Nbre de résidences principales, sec., vacantes, nbre de pièces...
+- La demande immobilière
+Croissance de la pop, cat. d’âge, taille de la pop...
+- La Conjoncture
+Pop active, revenus/hab…
 
 

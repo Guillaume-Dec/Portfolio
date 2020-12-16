@@ -13,7 +13,7 @@ https://www.linkedin.com/in/guillaume-decroix-76724ab1/
 
 > Après un mois et demi de formation, nous avons participé à un Datathon. Pendant 24 heures, notre défi était de produire une analyse basée sur des données, qui aidera les acteurs du marché immobilier.
 
-Pour introduire notre projet nous sommes partis du nombre d'agences immombilières actives et recensées par INSEE: 117 258.
+Pour introduire notre projet nous sommes partis du nombre d'agences immombilières actives et recensées par INSEE: **117 258**.
 Cet indicateur montre la forte intensité concurrentielle dans ce marché, entre ces différents acteurs. 
 
 Etant donné cette concurrence, nous avons imaginé un outil drivé par la data, pour un acteur national (par exemple un réseau d'agences physiques) ou pureplayer pour les aider à se différencier. Concrètement, cet outil est un dashboard d'aide à la décision pour répondre à des questions comme:
@@ -28,13 +28,13 @@ Pour cela, nous avons identifié 4 catégories de données que nous avons recher
 Ex: Ventes/hab, prix, surface...
 - L’offre immobilière
 
-Nbre de résidences principales, sec., vacantes, nbre de pièces...
+Ex:Nbre de résidences principales, sec., vacantes, nbre de pièces...
 - La demande immobilière
 
-Croissance de la pop, cat. d’âge, taille de la pop...
+Ex:Croissance de la pop, cat. d’âge, taille de la pop...
 - La Conjoncture
 
-Pop active, revenus/hab…
+Ex:Pop active, revenus/hab…
 
 Pour la visualisation de notre outil, nous avons décidé d'utiliser Tableau. A ce niveau de la formation, c'était la première fois que nous l'utilisions.
 Voici le [lien vers le dashboard](https://public.tableau.com/profile/decroix#!/vizhome/Datathon_Novembre_Portfolio/TabIdentifier?publish=yes)

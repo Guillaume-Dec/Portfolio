@@ -9,5 +9,6 @@ https://www.linkedin.com/in/guillaume-decroix-76724ab1/
 # Novembre 2020 - Datathon
 
 [https://public.tableau.com/profile/decroix#!/vizhome/Datathon_Novembre_Portfolio/TabIdentifier?publish=yes]
+
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
